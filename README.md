@@ -35,12 +35,19 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Pratiksha+Aghav;Backend+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/output/snake-light.svg" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/projects/projects.svg" alt="Projects" />
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
