@@ -1,74 +1,165 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+<!-- ========================= -->
+<!--        HERO BANNER        -->
+<!-- ========================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/main/light.svg">
-  <img alt="Muhammad Shahzaib Wajid" src="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/main/light.svg">
+  <img alt="Pratiksha Aghav" src="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/main/light.svg">
 </picture>
 
-<!-- ===== GITHUB STATS ===== -->
+<br>
 
 <div align="center">
 
-<!-- Streak — full width -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shahzaib-Malik77&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Shahzaib-Malik77&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Shahzaib's streak" />
-</picture>
-
-<br/>
-
-<!-- Stats + Top languages — side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Shahzaib-Malik77&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Shahzaib-Malik77&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Shahzaib's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Shahzaib-Malik77&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Shahzaib-Malik77&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&lines=Pratiksha+Aghav;Backend+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Scalable+Applications" />
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
+---
+
+# 💫 About Me
+
+- 🎓 B.Tech Computer Engineering Student
+- 💼 Backend Engineer Intern
+- 🚀 Full Stack MERN Developer
+- 🤖 Passionate about AI & Backend Systems
+- 🌱 Currently learning System Design, Cloud & DevOps
+- 💻 Love building scalable web applications
+- 📍 Pune, India
+- 💬 Ask me about **Node.js, Express, React, MongoDB, AI**
+- 📫 **pratiksha.aghav2027@gmail.com**
+- 🟢 **Open to Software Engineering Internships**
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,express,mongodb,postgres,mysql,firebase,docker,git,github,postman,vscode,aws,tailwind&perline=10" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Pratiksha+Aghav;Backend+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratiksha3415&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha3415&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Pratiksha3415&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<!-- ===== SOCIAL BADGES ===== -->
-<br/>
+---
+
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-shahzaib-wajid-79287b289/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMDY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/m.shahzaib2005/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Shahzaib-Malik77" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://zaphtra-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=0A101F" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:m.shahzaibwajid0647@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=Pratiksha3415&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
 </div>
 
-<!-- ===== END SOCIAL BADGES ===== -->
+---
 
-<!-- =================================== -->
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksha3415&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 **CodeWatch** | AI-powered code review platform using Gemini AI |
+| 📊 **Page Pulse** | Website SEO & Performance Analyzer |
+| 🏛️ **CivicLens** | MERN-based civic issue reporting platform |
+| 🎯 **AI Career Coach** | AI-powered career guidance & resume assistant |
+
+---
+
+# 🏅 Achievements
+
+🏆 Smart India Hackathon – Internal Top Team
+
+🥈 Oracle Academy Database Foundations Certified
+
+🥈 NPTEL – Joy of Computing with Python (Elite)
+
+💻 Backend Engineer Intern
+
+🔥 Solved 50+ DSA Problems
+
+🚀 Passionate Open Source Contributor
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pratiksha3415">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:pratiksha.aghav2027@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Pratiksha3415&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"First, solve the problem. Then, write the code."*
+
+**Thanks for visiting my profile! Happy Coding! 🚀**
+
+</div>
