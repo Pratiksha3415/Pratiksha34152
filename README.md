@@ -1,112 +1,81 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-# 👋 Hi, I'm Pratiksha Aghav
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/main/light.svg">
+  <img alt="Muhammad Shahzaib Wajid" src="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/main/light.svg">
+</picture>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:8B5CF6,100:C084FC&height=220&section=header&text=Pratiksha%20Aghav&fontSize=46&fontColor=ffffff&desc=Backend%20Engineer%20•%20Full%20Stack%20MERN%20Developer%20•%20AI%20Enthusiast&descAlignY=60"/>
-</p>
+<!-- ===== GITHUB STATS ===== -->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=8B5CF6&lines=Backend+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning"/>
-</p>
+<div align="center">
 
----
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shahzaib-Malik77&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Shahzaib-Malik77&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Shahzaib's streak" />
+</picture>
 
-## 👩‍💻 About Me
+<br/>
 
-I'm **Pratiksha Aghav**, a Backend Engineer Intern and B.Tech Computer Engineering student from Pune, India.
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Shahzaib-Malik77&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Shahzaib-Malik77&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Shahzaib's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Shahzaib-Malik77&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Shahzaib-Malik77&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
 
-- 🚀 Building scalable MERN applications
-- 🤖 Interested in AI-powered software
-- 🌱 Learning System Design, AWS & DevOps
-- 💻 Love Backend Engineering & APIs
-- 🎯 Open for Software Engineering Internships
+</div>
 
----
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
-## 🔗 Connect
+<div align="center">
 
-- GitHub: https://github.com/Pratiksha3415
-- LinkedIn: https://www.linkedin.com/in/pratiksha-aghav-a38bab28a/
-- Email: pratiksha.aghav2027@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/output/snake-light.svg" />
+</picture>
 
----
+</div>
 
-## 🛠 Tech Stack
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Shahzaib-Malik77/Shahzaib-Malik77/projects/projects.svg" alt="Projects" />
+</div>
 
-### Languages
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
 
-![Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts)
+<a href="https://www.linkedin.com/in/muhammad-shahzaib-wajid-79287b289/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMDY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/m.shahzaib2005/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Shahzaib-Malik77" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://zaphtra-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=0A101F" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:m.shahzaibwajid0647@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+</div>
 
-### Frontend
+<!-- ===== END SOCIAL BADGES ===== -->
 
-![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)
-
-### Backend
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-### Database
-
-![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratiksha3415&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksha3415&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Pratiksha3415&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksha3415&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **CodeWatch** | AI-powered code review using Gemini AI |
-| **AI Career Coach** | Resume analysis & career guidance platform |
-| **Page Pulse** | SEO & website performance analyzer |
-| **CivicLens** | MERN civic issue reporting platform |
-
----
-
-## 🏅 Achievements
-
-- 🏆 Smart India Hackathon Participant
-- 🥈 VIT Blockchain Hackathon – Top 50
-- 🎓 Oracle Academy Database Foundations
-- 🥈 NPTEL Joy of Computing with Python (Elite)
-- 💻 Backend Engineer Intern
-
----
-
-## 🐍 Contribution Snake
-
-Replace this image after enabling your snake workflow:
-
-```html
-<img src="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/output/github-contribution-grid-snake-dark.svg"/>
-```
-
----
-
-## 💬 Quote
-
-> "First, solve the problem. Then, write the code."
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pratiksha3415&style=for-the-badge&color=8B5CF6"/>
-</p>
+<!-- =================================== -->
