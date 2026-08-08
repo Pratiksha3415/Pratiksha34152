@@ -27,55 +27,64 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Crop empty space from snake
-    run: |
-      python - <<'PY'
-      from pathlib import Path
-      import re
-  
-      files = [
-          Path("dist/github-contribution-grid-snake.svg"),
-          Path("dist/github-contribution-grid-snake-dark.svg"),
-      ]
-  
-      # Amount of the LEFT side to remove.
-      # Increase this to remove more blank space.
-      CROP_LEFT = 250
-  
-      for path in files:
-          text = path.read_text()
-  
-          match = re.search(
-              r'<svg[^>]*viewBox="([^"]+)"',
-              text
-          )
-  
-          if not match:
-              print(f"Could not find viewBox in {path}")
-              continue
-  
-          values = match.group(1).split()
-  
-          if len(values) != 4:
-              print(f"Unexpected viewBox in {path}: {match.group(1)}")
-              continue
-  
-          x, y, width, height = map(float, values)
-  
-          new_x = x + CROP_LEFT
-          new_width = width - CROP_LEFT
-  
-          new_viewbox = f"{new_x:g} {y:g} {new_width:g} {height:g}"
-  
-          text = text.replace(
-              f'viewBox="{match.group(1)}"',
-              f'viewBox="{new_viewbox}"',
-              1
-          )
-  
-          path.write_text(text)
-  
-          print(f"{path}: {match.group(1)} -> {new_viewbox}")
-      PY
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          files = [
+              Path("dist/github-contribution-grid-snake.svg"),
+              Path("dist/github-contribution-grid-snake-dark.svg"),
+          ]
+
+          # Amount of LEFT side to remove.
+          # Increase this if there is still too much blank space.
+          CROP_LEFT = 300
+
+          for path in files:
+              text = path.read_text()
+
+              match = re.search(
+                  r'<svg[^>]*viewBox="([^"]+)"',
+                  text
+              )
+
+              if not match:
+                  print(f"Could not find viewBox in {path}")
+                  continue
+
+              values = match.group(1).split()
+
+              if len(values) != 4:
+                  print(f"Unexpected viewBox in {path}: {match.group(1)}")
+                  continue
+
+              x, y, width, height = map(float, values)
+
+              if CROP_LEFT >= width:
+                  print(f"CROP_LEFT is too large for {path}")
+                  continue
+
+              new_x = x + CROP_LEFT
+              new_width = width - CROP_LEFT
+
+              new_viewbox = (
+                  f"{new_x:g} {y:g} {new_width:g} {height:g}"
+              )
+
+              text = text.replace(
+                  f'viewBox="{match.group(1)}"',
+                  f'viewBox="{new_viewbox}"',
+                  1
+              )
+
+              path.write_text(text)
+
+              print(
+                  f"{path}: "
+                  f"{match.group(1)} -> {new_viewbox}"
+              )
+          PY
 
       - name: Push generated snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
