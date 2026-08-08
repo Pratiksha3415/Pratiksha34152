@@ -6,11 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Pratiksha+Aghav;Backend+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
 </a>
 
-<img
-  src="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/output/github-contribution-grid-snake.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
+<div class="github-snake-wrapper">
+  <img
+    src="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/output/github-contribution-grid-snake.svg"
+    alt="Pratiksha Aghav GitHub Contribution Snake"
+    class="github-snake"
+  />
+</div>
 
 </div>
 
