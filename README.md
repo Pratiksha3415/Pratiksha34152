@@ -6,17 +6,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Pratiksha+Aghav;Backend+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
 </a>
 
-<div align="center" style="overflow: hidden; width: 100%;">
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/output/github-contribution-grid-snake-dark.svg"
+  />
 
   <img
     src="https://raw.githubusercontent.com/Pratiksha3415/Pratiksha3415/output/github-contribution-grid-snake.svg"
-    alt="Pratiksha Aghav GitHub Contribution Snake"
-    width="125%"
-    style="max-width: none; transform: translateX(-12%);"
+    width="85%"
+    alt="GitHub Contribution Snake"
   />
+</picture>
 
 </div>
-
 </div>
 
 <br/>
