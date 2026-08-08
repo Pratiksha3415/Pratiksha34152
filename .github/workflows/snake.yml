@@ -39,7 +39,7 @@ jobs:
 
           # Amount of LEFT side to remove.
           # Increase this if there is still too much blank space.
-          CROP_LEFT = 300
+          CROP_LEFT = 500
 
           for path in files:
               text = path.read_text()
